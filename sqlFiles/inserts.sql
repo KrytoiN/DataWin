@@ -1,0 +1,3 @@
+select * from rto;
+insert into Rto(idProcess, timing2Hours, timing4Hours, timing8Hours, timing24Hours, timing5Days, timing30Days, impactDowntime, rto, rtoPrev) values (1, 'NI', 'NI', 'NI', 'NI', 'NI', 'NI', 'Прямые потери - финансовый ущерб', '5 дней', '30 дней');
+insert into Rto(idProcess, timing2Hours, timing4Hours, timing8Hours, timing24Hours, timing5Days, timing30Days, impactDowntime, rto, rtoPrev) values (2, 'NI', 'NI', 'NI', 'NI', 'NI', 'NI', 'Косвенные потери - финансовый ущерб', '5 дней', '30 дней')
